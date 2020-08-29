@@ -96,6 +96,7 @@
     "flat": "^5.0.0",
     "gettext-parser": "^4.0.3",
     "glob": "^7.1.6",
+    "json-to-pretty-yaml": "^1.2.2",
     "mkdirp": "^1.0.4",
     "path": "^0.12.7",
     "terminal-link": "^2.1.1",

@@ -63,7 +63,7 @@ export const cli = y
 		describe: 'Format',
 		default: 'json',
 		type: 'string',
-		choices: ['json', 'namespaced-json', 'pot']
+		choices: ['json', 'namespaced-json', 'pot', 'yaml']
 	})
 	.option('format-indentation', {
 		alias: 'fi',
